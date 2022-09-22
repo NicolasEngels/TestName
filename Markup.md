@@ -1,7 +1,5 @@
 # Nicolas Engels - Coding
 
-
-
 ## Who am I ?
 
 Hello I'm Nicolas Engels, a *22* years old boy who live in *Waterloo*, i really like  *coding* and *spend time with my friends*.
@@ -34,6 +32,4 @@ What I really look forward to is the group projects. (sorry I do not have so muc
 
 ## My favorite GIF :
 ![Michael Scott](https://media.giphy.com/media/aPl9Xqe6DtV3q/giphy.gif)
-
-### la fin
  
